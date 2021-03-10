@@ -3,6 +3,8 @@ Simple beginners example of filtering listview data from a spinner component. An
 
 ![ListView tutorial Dropdown](ListViewDropDownSpinnerJava.gif)
 
+Find complete tutorial at [Camposha here](https://camposha.info/kotlin-android-filtering-using-dropdown-spinner/).
+
 
 Contact Me: oclemmi@gmail.com
 
